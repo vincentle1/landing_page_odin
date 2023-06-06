@@ -1,0 +1,51 @@
+body {
+  background: white;
+  font-family: "Roboto", Helvetica, sans-serif;
+}
+
+header, .hero, footer {
+  background: #1F2937;
+}
+
+.hero {
+  display: flex;
+}
+
+.features {
+  display: flex;
+}
+
+.quote {
+  display: flex;
+}
+
+.cta {
+  display: flex;
+}
+
+ul {
+  list-style-type: none;
+}
+
+header .logo {
+  font-size: 24px;
+  color: #F9FAF8;
+}
+
+.hero h2 { 
+  font-size: 48px;
+  font-weight: 800;
+  color: #F9FAF8;
+}
+
+.hero .subtext {
+  font-size: 18px;
+  color: #E5E7EB;
+}
+
+.quote {
+  background: #E5E7EB;
+}
+
+
+
